@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-### Frontend:
+#### Frontend:
 
 <p align="left">
 <a href="https://angular.io" target="_blank"> 
@@ -53,7 +53,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>
 
-### Backend:
+#### Backend:
 
 <a href="https://expressjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -90,7 +90,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </a> 
 
-### Fullstack
+#### Fullstack
 
 <a href="https://jestjs.io" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
