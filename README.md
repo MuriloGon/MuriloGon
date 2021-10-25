@@ -25,9 +25,7 @@
 <a href="https://bulma.io/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> 
 </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> 
+
 <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a> 
@@ -120,7 +118,9 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 </a>
-    
+<a href="https://www.w3schools.com/cs/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+</a> 
 ----
     
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilogon&show_icons=true&locale=en&layout=compact" alt="murilogon" />
