@@ -1,39 +1,40 @@
 # Murilo Gonçalves
-**Fullstack Software Engineer** | Brazil
+**Software Engineer** | São Paulo, Brazil
 
-Experienced fullstack engineer building scalable web applications from frontend to backend, with expertise in modern JavaScript ecosystems and database design.
+Building scalable, well-architected systems with focus on performance, observability, and maintainable code.
 
-## Core Technologies
+## Technical Expertise
 
-**Frontend**
-- React, Next.js, React Router
-- TypeScript, JavaScript
-- Modern CSS, Responsive Design
+**Core Stack**
+- **Backend:** Node.js, TypeScript, Express.js
+- **Databases:** PostgreSQL, MongoDB
+- **Cloud:** AWS (Lambda, EC2, RDS, Route53), Docker
+- **Frontend:** React, Next.js
 
-**Backend & Infrastructure**
-- Node.js, Express.js
-- PostgreSQL, MongoDB
-- Docker, AWS, Azure
+**Engineering Practices**
+- Domain-Driven Design (DDD) and clean architecture
+- Test-driven development and comprehensive testing strategies
+- Observability and monitoring implementation
+- Performance optimization and trade-off analysis
 
 **Systems Programming**
-- Rust, C++
-- Low-level programming concepts
-- Performance optimization
+- Low-level programming concepts (memory management, concurrency)
+- Multithreading and race condition handling
+- Real-time systems development
+- Game development fundamentals
 
 ## Current Focus
-- Building scalable backend systems
-- Database optimization and design
-- API development and integration
-- Cloud infrastructure
+- Designing resilient distributed systems
+- Implementing observability patterns for production systems
 - Exploring systems programming and performance-critical applications
+- Building maintainable codebases through thoughtful abstractions
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloGon&show_icons=true&theme=default&hide_border=true)
+## Selected Work
+- [Projects Portfolio](https://github.com/MuriloGon/projects-at-trybe) - Full-stack applications demonstrating architectural patterns
 
-## 📫 Contact
-- **Email:** murilogoncalvesdev@gmail.com
-- **LinkedIn:** [linkedin.com/in/murilogon](https://linkedin.com/in/murilogon)
-- **Projects:** [github.com/MuriloGon/projects-at-trybe](https://github.com/MuriloGon/projects-at-trybe)
+## Contact
+**Email:** murilogoncalvesdev@gmail.com  
+**LinkedIn:** [linkedin.com/in/murilogon](https://linkedin.com/in/murilogon)
 
 ---
-*Passionate about creating efficient, scalable solutions and continuous learning in software development.*
+*Passionate about software craftsmanship, system design, and continuous learning in computer science fundamentals.*
