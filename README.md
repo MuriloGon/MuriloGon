@@ -29,9 +29,6 @@ Building scalable, well-architected systems with focus on performance, observabi
 - Exploring systems programming and performance-critical applications
 - Building maintainable codebases through thoughtful abstractions
 
-## Selected Work
-- [Projects Portfolio](https://github.com/MuriloGon/projects-at-trybe) - Full-stack applications demonstrating architectural patterns
-
 ## Contact
 **Email:** murilogoncalvesdev@gmail.com  
 **LinkedIn:** [linkedin.com/in/murilogon](https://linkedin.com/in/murilogon)
